@@ -1,0 +1,30 @@
+Island,Site,flat or sloped,karst,total # trees in plot,# trees excl side,# trees open side,date netting finished
+Guam,RITD grid,flat,low,16,8,8,31-Mar-10
+Guam,RITDgate,flat,some,10,5,5,24-Mar-10
+Guam,AnaoGrid,flat,yes,12,6,6,30-Mar-10
+Guam,AnaoArray,flat,yes,10,5,5,30-Mar-10
+Guam,SBLAS,flat,yes,24,12,,29-Mar-10
+Guam,NBLAS,flat,yes,NA,NA,,29-Mar-10
+Guam,RACEgrid,flat,yes,44,22,22,1-Apr-10
+Guam,RACEfrag,flat,yes,50,25,25,26-Mar-10
+Saipan,LADTgrid,flat,low,9,NA,,18-Mar-10
+Saipan,LADTarray,sloped,low,,NA,,18-Mar-10
+Saipan,LCP,sloped,low,19,8,11,5-Apr-10
+Saipan,MTR1,sloped,some,,NA,,10-Apr-10
+Saipan,NAFTAN,flat,low,,NA,,10-Apr-10
+Saipan,FORBIgrid,flat,some,,NA,,16-Mar-10
+Saipan,FORBIarray,sloped,low ,29,14,15,7-Apr-10
+Rota,BIRDS,flat,some,30,15,15,13-Apr-10
+Rota,GRVP,flat,some,19,10,9,8-Apr-10
+Rota,JSC,flat,some,35,21,24,10-Apr-10
+Rota,PALIIE,flat,low ,15,9,9,7-Apr-10
+Rota,PALIIW,flat,low ,20,17,17,6-Apr-10
+Rota,CROSS,flat,some,20,6,14,15-Apr-10
+Rota,MIDFIG,sloped,yes,29,11,18,22-Apr-10
+Tinian,MAHA,sloped,low,29,15,14,31-Mar-10
+Tinian,GINOZA,flat,low,26,10,16,2-Apr-10
+Tinian,PINA,flat,some,20,7,13,30-Mar-10
+Tinian,CHIG,flat,some,34,14,20,3-Apr-10
+Tinian,NLASU,sloped,low,22,11,11,25-Mar-10
+Tinian,SLASU,sloped,low,24,10,14,1-Apr-10
+Tinian,JAPC,sloped,low,16,8,8,23-Mar-10
